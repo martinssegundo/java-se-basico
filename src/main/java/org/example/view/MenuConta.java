@@ -15,5 +15,6 @@ public class MenuConta {
         System.out.println("1 -> Saque");
         System.out.println("2 -> Deposito");
         System.out.println("3 -> Saldo");
+        System.out.println("4 -> Debita consignado");
     }
 }
